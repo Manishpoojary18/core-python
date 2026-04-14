@@ -74,3 +74,7 @@ a=20
 b=30
 res=c1.add(a,b)
 print(res)
+
+
+
+# Activation record is also called as stack frame - A block of memory is created in the stack when a function/method is called.
