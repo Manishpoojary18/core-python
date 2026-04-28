@@ -1,5 +1,5 @@
 # Static variable:
-#The variable which is declared inside the class but outside the __init__ method and all the other methods is referred to asStatic variable. 
+#The variable which is declared inside the class but outside the __init__ method and all the other methods is referred to as Static variable. 
 #for the static variable, it will allocate memory only once irrespective of the number o objects created. 
 
 # class Demo:
