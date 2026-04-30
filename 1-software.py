@@ -1,11 +1,11 @@
 # Software
-# software is collection of programs which is used to perform several tasks based on a business requirement
-#Software is an automated solution for real-time problem
+# software is collection of programs which is used to perform several tasks based on a business requirement. 
+#Software is an automated solution for real-time problem. 
 
 
 
 #Compilation is a process in which a compiler converts HLL into MLL during this process entire code is executing at one time
-#Interpretation is  a process in which a interpreter converts HLL into MLL during this process single line of code is executin at one time
+#Interpretation is  a process in which a interpreter converts HLL into MLL during this process single line of code is executing at one time
 
 
 #Object- object is a physical entity

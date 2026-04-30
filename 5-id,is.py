@@ -1,4 +1,4 @@
-# id() function - It is a predefined function that returns the id of the provided vlaue.add()
+# id() function - It is a predefined function that returns the id of the provided vlaue. 
 # is operator - It checks whether both the values are in same memory location or not.
 a=5
 print(a)
