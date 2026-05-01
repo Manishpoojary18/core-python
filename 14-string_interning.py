@@ -1,5 +1,5 @@
 #String interning: string interning is a process of storing a single copy of each unique string in "global intern pool" to achieve memory optimization. 
-#Global intern pol, stores a single copy of each umique string amd allows reuse to save memory. 
+#Global intern pool stores a single copy of each umique string amd allows reuse to save memory. 
 str1="Rama"
 str2="Sita"
 str3="Ravana"
