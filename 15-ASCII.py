@@ -4,3 +4,5 @@ data=input()
 ascii=ord(data)
 print(ascii)
 
+
+
