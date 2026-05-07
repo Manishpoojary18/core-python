@@ -8,4 +8,5 @@ print(str2 in str1)
 print(str1.rfind("you"))
 print(str1.rindex("you"))
 print(str1.find("rakesh"))  #-1
+print(str1.find(str2))
 print(str1.index("rakesh")) #Error

@@ -17,3 +17,14 @@ print(nstr)
 str1="R a m a"
 str2=str1.replace(" ","")
 print(str2)
+
+
+str3="Rama is drinking"
+print(str3)
+str4=str3.replace("is","was")
+print(str4)
+print(str3.startswith("Rama"))
+print(str3.endswith("drinking"))
+print(str3.startswith("Seetha"))
+print(str4.endswith("drinking"))
+print(str3.endswith("eating"))
