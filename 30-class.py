@@ -11,3 +11,5 @@ class Student:
 s1=Student.class_method("Manish 22")
 print(s1.name) 
 print(s1.age)   
+
+# The method class_method() is called an alternative constructor because it creates an object in a different way than the normal constructor.
